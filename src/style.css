@@ -618,6 +618,9 @@ header{
     width: 100%;
 
 }
+.educity-img{
+    width: 100%;
+}
 .img-pad{
     padding: 20px;
 }
@@ -790,6 +793,9 @@ header{
         margin: 70px 0;
     }
     .cbse-img{
+        margin: 70px 0;
+    }
+    .educity-img{
         margin: 70px 0;
     }
 }
